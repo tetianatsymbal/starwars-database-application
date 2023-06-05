@@ -1,0 +1,60 @@
+.starships_wrap {
+ margin: 50px 0 0 0;
+}
+
+.starships_container {
+ width: 500px;
+ margin: 0 auto;
+}
+
+.starships_button {
+ width: 500px;
+ height: 50px;
+ border: 3px solid rgb(249, 180, 61);
+ background-color: rgb(15, 9, 29);
+ color: rgb(249, 180, 61);
+ size: 30px;
+ text-align: center;
+ font-weight: bold;
+ border-radius: 8px;
+ transition: all ease 600;
+ margin-bottom: 30px;
+}
+
+.starships_button:hover {
+ background-color: rgb(249, 180, 61);
+ color: black;
+}
+.starships_container_flex {
+ display: flex;
+ justify-content: space-between;
+}
+
+.starships_img {
+width: 200px;
+ height: 200px;
+ border-radius: 8px;
+ border: 2px solid rgb(249, 180, 61);
+ margin: 20px;
+}
+
+.starships_data_list {
+ width: 300px;
+  padding: 30px;
+  height: 200px;
+  margin: 20px auto;
+  background-color: rgba(255, 253, 253, 0.450);
+  border-radius: 8px;
+  color: white;
+}
+.error{
+ color: rgb(249, 180, 61);
+ text-transform: uppercase;
+ margin: 40px;
+ font-size: 19px;
+ text-align: center;
+}
+
+.starships_title {}
+
+.starships_data_list_element {}

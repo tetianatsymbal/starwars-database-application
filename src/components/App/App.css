@@ -1,0 +1,7 @@
+@import "./styleNull.css";
+@import "../Categories/Categories.css";
+@import "../Characters/Characters.css";
+.App{
+ background-color: rgb(15, 9, 29);
+ height: 1000px;
+}
