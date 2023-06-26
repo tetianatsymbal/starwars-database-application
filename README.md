@@ -1,4 +1,5 @@
-# React online marathon
+# Deploy:
+https://tetianatsymbal.github.io/starwars-database-application/
 
 ## The tasks of the topic Ajax:
 
